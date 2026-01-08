@@ -1,0 +1,15 @@
+-Nitro-ri's here, just checking everything is ok!-
+levelinfo|!test5|0|0||1|night of nights (flowering nights remix)  by cool&create⧸beatmario [vs_a8edde8k]1877336299.mp3|120.0|||night of nights (flowering nights remix)  by cool&create⧸beatmario [vs_a8edde8k]||||||11475.06|6|2025-12-25T21:00:24|2025-12-24T20:38:09x193172w32b5802622o47744||a4a4a4ff|-1|||0|a4a4a4ff
+config|1.0|0.0|false|32|32|0|8|true|true|true|0|30.0|120.0|2|1.0|1.0|a|true|240.0|240.0|false
+block|grow|0.0|416.0|136.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||size<?D1V?>0<?D1V?>90.0<?D1V?>120.0<?D1V?>5.0<?D1V?>1<?D1V?>180.0<?D1V?>1.0<?D1V?>2.0
+block|chroma|0.0|640.0|136.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||color<?D1V?>0<?D1V?>30.0<?D1V?>60.0<?D1V?>3.0<?D1V?>1<?D1V?>120.0<?D1V?>0.47423756122589<?D1V?>0.0<?D1V?>0.0
+block|opacity|0.0|992.0|136.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||trans<?D1V?>2<?D1V?>0.0<?D1V?>30.0<?D1V?>1.0<?D1V?>1<?D1V?>0.0<?D1V?>0.0
+block|delete|0.0|192.0|328.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||destroy<?D1V?>0<?D1V?>30.0
+block|multipleActions|0.0|512.0|328.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||destroy<?D1V?>0<?D1V?>0.0<?4CTi0N?>move<?D1V?>0<?D1V?>0.0<?D1V?>30.0<?D1V?>1<?D1V?>1<?D1V?>0.0<?D1V?>0.0<?D1V?>0.0
+block|move|0.0|192.0|136.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||move<?D1V?>0<?D1V?>90.0<?D1V?>120.0<?D1V?>5.0<?D1V?>1<?D1V?>180.0<?D1V?>1.0<?D1V?>2.0
+block|autoStart|0.0|160.0|584.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||destroy<?D1V?>0<?D1V?>0.0
+block|beatenWhenKeyOver|0.0|384.0|584.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||destroy<?D1V?>1<?D1V?>0.0
+block|pressIncludeNotOver|0.0|640.0|584.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||destroy<?D1V?>3<?D1V?>0.0
+block|pressExceptBeaten|0.0|864.0|584.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||destroy<?D1V?>3<?D1V?>0.0
+block|onMiss|0.0|1024.0|584.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||destroy<?D1V?>4<?D1V?>0.0
+block|opacity|0.0|992.0|328.0|1.0|1.0|0|30.0|-1|ffffffff|0.0|0||size<?D1V?>0<?D1V?>0.0<?D1V?>30.0<?D1V?>1.0<?D1V?>1<?D1V?>0.0<?D1V?>1.0<?D1V?>1.0
